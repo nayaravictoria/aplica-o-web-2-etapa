@@ -1,0 +1,34 @@
+body{
+    background-color: brown;
+    color: brown
+}
+.pag{
+    background-color: beige;
+    border-radius: 2em;
+    box-shadow: 0em 0em 0.5em black;
+    padding: 2em;
+}
+fieldset{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border: solid 0.1em brown;
+    padding: 2em;
+    margin-top: 1em;
+}
+legend{
+    background-color:brown;
+    width: 50%;
+    color:white;
+    padding: 0.3em;
+}
+
+#msg{
+    color: darkblue;
+    font-weight: bold;
+    display: none;
+}
+
+#cnpj, #cartao{
+    display: none;
+}
